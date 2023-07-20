@@ -52,3 +52,15 @@ The Capacitance-Based Moisture Detection System is licensed under the [MIT Licen
 
 ## Disclaimer
 This Capacitance-Based Moisture Detection System is intended for informational purposes only. The developers and maintainers of this repository are not responsible for any direct or indirect damages caused by the use or misuse of the system.
+
+---
+
+![Tilted](https://github.com/AmirhoseinMasoumi/MoistureDetection/blob/main/Assets/software.png)
+
+---
+![Tilted](https://github.com/AmirhoseinMasoumi/MoistureDetection/blob/main/Assets/board.png)
+
+---
+![Tilted](https://github.com/AmirhoseinMasoumi/MoistureDetection/blob/main/Assets/board2.png)
+
+---
